@@ -1,2 +1,2 @@
-## hi 👋
-🌌visit my web site to more informtion: 
+hi 👋
+my web site: 
